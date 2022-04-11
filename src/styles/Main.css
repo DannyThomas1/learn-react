@@ -1,0 +1,23 @@
+.main{
+    padding: 30px 25px;
+    color:white;
+}
+
+.main--header{
+    font-size: bold;
+    font-size: 39px;
+    letter-spacing: -0.05;
+}
+
+.main--list{
+    margin-top:46px;
+}
+.main--list > li{
+    margin: 20px 0;
+    max-width: 500px;
+}
+
+.main--list > li::marker{
+    color:#61DAFB;
+    font-size: 1.4rem;
+}
