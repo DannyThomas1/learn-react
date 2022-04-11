@@ -7,3 +7,4 @@
     - Custom Components
     - Styling
     - Static Pages
+    - Create-react-app
