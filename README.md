@@ -5,5 +5,5 @@
     - Why React?
     - JSX
     - Custom Components
-    -Styling
+    - Styling
     - Static Pages
